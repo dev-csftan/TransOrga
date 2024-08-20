@@ -14,4 +14,4 @@ The results show that TransOrga-plus provides better analytical results and sign
 <h3>Step 0: Prerequisties</h3>
 <h3>Step 1: Prepare the environment</h3>
 <h3>Step 2: Train the model</h3>
-<h4>Step 3: Inference</h3>
+<h3>Step 3: Inference</h3>
