@@ -33,6 +33,9 @@ This software is compatible with a Linux operating system, specifically Ubuntu 2
     ```
     python3 -m pip install --user -r requirements.txt
     ```
+2. Install the DeAOT and download the pretrained models [here] (https://github.com/chen-si-jia/DeAOT).
+
+
 
 #### Step 2: Train the model
 1. Prepare the dataset, you can download the public dataset [here] (https://osf.io/xmes4/)
