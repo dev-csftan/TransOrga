@@ -33,12 +33,16 @@ This software is compatible with a Linux operating system, specifically Ubuntu 2
     ```
     python3 -m pip install --user -r requirements.txt
     ```
-2. Install the DeAOT and download the pretrained models [here] (https://github.com/chen-si-jia/DeAOT).
+2. Install the DeAOT and download the pretrained models [here](https://github.com/chen-si-jia/DeAOT).
+    *** You can also find the descriptions of DeAOT in
+    ```
+    TransOrga-plus/aot/README.md
+    ```
 
 
 
 #### Step 2: Train the model
-1. Prepare the dataset, you can download the public dataset [here] (https://osf.io/xmes4/)
+1. Prepare the dataset, you can download the public dataset [here](https://osf.io/xmes4/)
 2. Please unzip these files and place the folders in the root directory, like 
 
     `TransOrga-plus/Dataset`,
