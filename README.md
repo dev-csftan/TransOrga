@@ -53,13 +53,16 @@ This software is compatible with a Linux operating system, specifically Ubuntu 2
 
 3. Download the official pretrained vit-base model [here](https://drive.google.com/file/d/11UcqfiWLkDjOlUf2bQ17KKusi93lPXhn/view?usp=sharing).
 
-4. Run `train.py`
+4. Download the pretrinaed models [here](https://drive.google.com/drive/folders/1VzHqXmPPgQHFGAQc2a3H8XnC04fjOV12?usp=sharing) and save them in `TransOrga-plu/ckpt` folder.
+
+
+5. Run `train.py`
 
     ```
     python train.py
     ```
 
-5. Save the checkpoints under `TransOrga-plus/log/checkpoint`
+6. Save the checkpoints under `TransOrga-plus/log/checkpoint`
 
 <h3>Step 3: Inference</h3>
 
