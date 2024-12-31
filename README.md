@@ -11,9 +11,9 @@ The results show that TransOrga-plus provides better analytical results and sign
 ## Requirements
 This software is compatible with a Linux operating system, specifically Ubuntu 20.04 (compatibility with other versions has not been tested), and requires Python 3.9. It necessitates 64GB of RAM and 1TB of disk storage. Performance benchmarks are based on an Intel(R) Core(TM) i9-10900K CPU @ 3.70GHz and an NVIDIA 3090 GPU.
 ### How to use TransOrga-plus 
-#### Step 1: Prerequisties
+#### Step 1: Prerequisites
 
-1. Open the terminal, or press Ctrl+Alt+F1 to access the command line interface.
+1. Open the terminal or press Ctrl+Alt+F1 to access the command line interface.
 
 2. Clone this repository to your home directory.
 
@@ -53,7 +53,7 @@ This software is compatible with a Linux operating system, specifically Ubuntu 2
 
 3. Download the official pretrained vit-base model [here](https://drive.google.com/file/d/11UcqfiWLkDjOlUf2bQ17KKusi93lPXhn/view?usp=sharing).
 
-4. Download the pretrinaed models [here](https://drive.google.com/drive/folders/1VzHqXmPPgQHFGAQc2a3H8XnC04fjOV12?usp=sharing) and save them in `TransOrga-plus/ckpt` folder.
+4. Download the pretrained models [here](https://drive.google.com/drive/folders/1VzHqXmPPgQHFGAQc2a3H8XnC04fjOV12?usp=sharing) and save them in `TransOrga-plus/ckpt` folder.
 
 
 5. Run `train.py`
