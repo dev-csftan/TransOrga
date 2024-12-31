@@ -94,5 +94,11 @@ Here are some video results of TransOrga-plus under different organoid situation
     <td style="text-align: center;">
       <img src="demo3.gif" alt="Demo 3" style="width: 150px;">
     </td>
+    <td style="vertical-align: top; text-align: left;">
+      <strong>Transorga:</strong><br>
+      1. Demo 1: Explanation for the first GIF.<br>
+      2. Demo 2: Explanation for the second GIF.<br>
+      3. Demo 3: Explanation for the third GIF.<br>
+    </td>
   </tr>
 </table>
