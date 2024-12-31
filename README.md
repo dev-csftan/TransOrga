@@ -79,3 +79,16 @@ This software is compatible with a Linux operating system, specifically Ubuntu 2
     ```
 
     You can change the "input_path" as your file path, the "output_video" as the output video path and the "output_gif" as the output gif path.
+
+
+# Demo of TransOrga-plus
+Here are some video results of TransOrga-plus under different organoid situations.
+<div style="text-align: center;">
+<img src="demo1.gif" >
+</div>
+<div style="text-align: center;">
+<img src="demo2.gif" >
+</div>
+<div style="text-align: center;">
+<img src="demo3.gif" >
+</div>
