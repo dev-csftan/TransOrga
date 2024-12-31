@@ -84,54 +84,45 @@ This software is compatible with a Linux operating system, specifically Ubuntu 2
 
 # Demo of TransOrga-plus
 Here are some video results of TransOrga-plus under different organoid situations.
-<table>
-  <tr>
-      <td style="vertical-align: top; text-align: left;">
-      <strong>Transorga-plus:</strong><br>
-    </td>
-    <td style="text-align: center;">
-      <img src="demo1.gif" alt="Demo 1" style="width: 150px;">
-    </td>
-    <td style="text-align: center;">
-      <img src="demo2.gif" alt="Demo 2" style="width: 150px;">
-    </td>
-    <td style="text-align: center;">
-      <img src="demo3.gif" alt="Demo 3" style="width: 150px;">
-    </td>
-    
-  </tr>
-</table>
-<table>
-  <tr>
-      <td style="vertical-align: top; text-align: left;">
-      <strong>Fine-tuned STA:</strong><br>
-    </td>
-    <td style="text-align: center;">
-      <img src="demo1-2.gif" alt="Demo 1" style="width: 150px;">
-    </td>
-    <td style="text-align: center;">
-      <img src="demo2-2.gif" alt="Demo 2" style="width: 150px;">
-    </td>
-    <td style="text-align: center;">
-      <img src="demo3-2.gif" alt="Demo 3" style="width: 150px;">
-    </td>
-    
-  </tr>
-</table>
-<table>
-  <tr>
-      <td style="vertical-align: top; text-align: left;">
-      <strong>STA:</strong><br>
-    </td>
-    <td style="text-align: center;">
-      <img src="demo1-3.gif" alt="Demo 1" style="width: 150px;">
-    </td>
-    <td style="text-align: center;">
-      <img src="demo2-3.gif" alt="Demo 2" style="width: 150px;">
-    </td>
-    <td style="text-align: center;">
-      <img src="demo3-3.gif" alt="Demo 3" style="width: 150px;">
-    </td>
-    
-  </tr>
-</table>
+<div style="display: flex; flex-direction: column; align-items: flex-start; gap: 20px;">
+
+  <table style="width: 100%;">
+    <tr>
+      <td style="vertical-align: top; text-align: left; width: 20%;">
+        <strong>Transorga-plus:</strong><br>
+      </td>
+      <td style="text-align: center; width: 80%;">
+        <img src="demo1.gif" alt="Demo 1" style="width: 150px;">
+        <img src="demo2.gif" alt="Demo 2" style="width: 150px;">
+        <img src="demo3.gif" alt="Demo 3" style="width: 150px;">
+      </td>
+    </tr>
+  </table>
+
+  <table style="width: 100%;">
+    <tr>
+      <td style="vertical-align: top; text-align: left; width: 20%;">
+        <strong>Fine-tuned STA:</strong><br>
+      </td>
+      <td style="text-align: center; width: 80%;">
+        <img src="demo1-2.gif" alt="Demo 1" style="width: 150px;">
+        <img src="demo2-2.gif" alt="Demo 2" style="width: 150px;">
+        <img src="demo3-2.gif" alt="Demo 3" style="width: 150px;">
+      </td>
+    </tr>
+  </table>
+
+  <table style="width: 100%;">
+    <tr>
+      <td style="vertical-align: top; text-align: left; width: 20%;">
+        <strong>STA:</strong><br>
+      </td>
+      <td style="text-align: center; width: 80%;">
+        <img src="demo1-3.gif" alt="Demo 1" style="width: 150px;">
+        <img src="demo2-3.gif" alt="Demo 2" style="width: 150px;">
+        <img src="demo3-3.gif" alt="Demo 3" style="width: 150px;">
+      </td>
+    </tr>
+  </table>
+
+</div>
