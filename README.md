@@ -85,6 +85,9 @@ This software is compatible with a Linux operating system, specifically Ubuntu 2
 Here are some video results of TransOrga-plus under different organoid situations.
 <table>
   <tr>
+      <td style="vertical-align: top; text-align: left;">
+      <strong>Transorga-plus:</strong><br>
+    </td>
     <td style="text-align: center;">
       <img src="demo1.gif" alt="Demo 1" style="width: 150px;">
     </td>
@@ -94,11 +97,40 @@ Here are some video results of TransOrga-plus under different organoid situation
     <td style="text-align: center;">
       <img src="demo3.gif" alt="Demo 3" style="width: 150px;">
     </td>
-    <td style="vertical-align: top; text-align: left;">
-      <strong>Transorga:</strong><br>
-      1. Demo 1: Explanation for the first GIF.<br>
-      2. Demo 2: Explanation for the second GIF.<br>
-      3. Demo 3: Explanation for the third GIF.<br>
+    
+  </tr>
+</table>
+<table>
+  <tr>
+      <td style="vertical-align: top; text-align: left;">
+      <strong>Fine-tuned STA:</strong><br>
     </td>
+    <td style="text-align: center;">
+      <img src="demo1-2.gif" alt="Demo 1" style="width: 150px;">
+    </td>
+    <td style="text-align: center;">
+      <img src="demo2-2.gif" alt="Demo 2" style="width: 150px;">
+    </td>
+    <td style="text-align: center;">
+      <img src="demo3-2.gif" alt="Demo 3" style="width: 150px;">
+    </td>
+    
+  </tr>
+</table>
+<table>
+  <tr>
+      <td style="vertical-align: top; text-align: left;">
+      <strong>STA:</strong><br>
+    </td>
+    <td style="text-align: center;">
+      <img src="demo1-3.gif" alt="Demo 1" style="width: 150px;">
+    </td>
+    <td style="text-align: center;">
+      <img src="demo2-3.gif" alt="Demo 2" style="width: 150px;">
+    </td>
+    <td style="text-align: center;">
+      <img src="demo3-3.gif" alt="Demo 3" style="width: 150px;">
+    </td>
+    
   </tr>
 </table>
