@@ -83,12 +83,14 @@ This software is compatible with a Linux operating system, specifically Ubuntu 2
 
 # Demo of TransOrga-plus
 Here are some video results of TransOrga-plus under different organoid situations.
-<div style="text-align: center;">
-<img src="demo1.gif" >
-</div>
-<div style="text-align: center;">
-<img src="demo2.gif" >
-</div>
-<div style="text-align: center;">
-<img src="demo3.gif" >
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <div>
+    <img src="demo1.gif" alt="Demo 1" style="max-width: 100px;">
+  </div>
+  <div>
+    <img src="demo2.gif" alt="Demo 2" style="max-width: 100px;">
+  </div>
+  <div>
+    <img src="demo3.gif" alt="Demo 3" style="max-width: 100px;">
+  </div>
 </div>
