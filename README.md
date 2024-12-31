@@ -38,7 +38,7 @@ This software is compatible with a Linux operating system, specifically Ubuntu 2
     ```
     TransOrga-plus/aot/README.md
     ```
-
+3. You can also install the [Jupyter](https://jupyter.org/install).
 
 
 #### Step 2: Train the model
