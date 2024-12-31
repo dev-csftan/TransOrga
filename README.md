@@ -28,6 +28,7 @@ This software is compatible with a Linux operating system, specifically Ubuntu 2
 
 
 #### Step 2: Prepare the environment
+1. Install [Pytorch 1.13](https://pytorch.org/) following the [official documents](https://pytorch.org/get-started/previous-versions/).
 1. Install the required Python packages.
 
     ```
