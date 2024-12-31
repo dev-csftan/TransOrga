@@ -115,7 +115,7 @@ Here are some video results of TransOrga-plus under different organoid situation
   <table style="width: 100%;">
     <tr>
       <td style="vertical-align: top; text-align: left; width: 20%;">
-        <strong>STA:</strong><br>
+        <strong>STA    :</strong><br>
       </td>
       <td style="text-align: center; width: 80%;">
         <img src="demo1-3.gif" alt="Demo 1" style="width: 150px;">
